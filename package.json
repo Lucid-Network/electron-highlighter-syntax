@@ -1,7 +1,7 @@
 {
   "name": "autumn-highlighter-syntax",
   "theme": "syntax",
-  "version": "1.12.0",
+  "version": "1.13.0",
   "description": "A fork of the electron-highlighter-syntax with a new autumn-style color scheme",
   "keywords": [
     "syntax",

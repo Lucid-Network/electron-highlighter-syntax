@@ -1,4 +1,4 @@
-# electron-highlighter-autumn-syntax theme
+# autumn-highlighter-syntax theme
 
 A fork of the electron-highlighter-syntax theme based on One Dark with an autumn like color scheme.
 

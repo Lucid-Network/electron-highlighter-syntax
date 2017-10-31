@@ -1,3 +1,6 @@
+## 1.11.1
+- Fork by Lucid.net: change of main color scheme "autumn style"
+
 ## 1.11.0
 - highlights all assignment operators consistently using `syntax--assignment` class
 

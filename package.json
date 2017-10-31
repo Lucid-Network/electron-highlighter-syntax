@@ -1,8 +1,8 @@
 {
-  "name": "electron-highlighter-autumn-syntax",
+  "name": "autumn-highlighter-syntax",
   "theme": "syntax",
   "version": "1.11.1",
-  "description": "A fork of the tweaked one-dark syntax with Spacegray background",
+  "description": "A fork of the electron-highlighter-syntax with a new autumn-style color scheme",
   "keywords": [
     "syntax",
     "theme",

@@ -1,7 +1,7 @@
 {
   "name": "autumn-highlighter-syntax",
   "theme": "syntax",
-  "version": "2.2.2",
+  "version": "3.0.0",
   "description": "A tweaked one-dark syntax with autumn colors and Spacegray background",
   "keywords": [
     "syntax",

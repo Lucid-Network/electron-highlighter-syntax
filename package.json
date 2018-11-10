@@ -1,13 +1,14 @@
 {
-  "name": "electron-highlighter-syntax",
+  "name": "autumn-highlighter-syntax",
   "theme": "syntax",
-  "version": "2.2.2",
-  "description": "A tweaked one-dark syntax with Spacegray background",
+  "version": "2.2.3",
+  "description": "A tweaked one-dark syntax with autumn colors and Spacegray background",
   "keywords": [
     "syntax",
     "theme",
     "electron",
     "dark",
+    "autumn",
     "spacegray"
   ],
   "repository": "https://github.com/mikemcbride/electron-highlighter-syntax",

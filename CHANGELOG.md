@@ -1,3 +1,7 @@
+## 2.2.3
+
+* synced with upstream and adjusted colors again.
+
 ## 2.2.2
 
 * update screenshot url due to rawgit shutting down

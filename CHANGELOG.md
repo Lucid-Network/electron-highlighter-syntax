@@ -1,3 +1,7 @@
+## 3.0.1
+
+* adjusted color red and added screenshots.
+
 ## 2.2.3
 
 * synced with upstream and adjusted colors again.
